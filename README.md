@@ -1,5 +1,24 @@
 # Star Wars: A Look At The Relationships Between Characters
 
+## Table of Contents
+ * [Executive Summary](#executive-summary)
+  * [Introduction](#introduction)
+  * [Dataset](#dataset)
+  * [Network Summary](#network-summary)
+    + [Network Statistics](#network-statistics)
+    + [Five-Number Summary](#five-number-summary)
+  * [Centrality Analysis](#centrality-analysis)
+  * [Network Visualized](#network-visualized)
+  * [Community Detection](#community-detection)
+  * [Network Modelling](#network-modelling)
+    + [Null Model](#null-model)
+    + [Adding Features](#adding-features)
+    + [Model Fit](#model-fit)
+  * [Conclusion](#conclusion)
+  * [Appendix A](#appendix-a)
+  * [Appendix B](#appendix-b)
+  * [References](#references)
+
 ## Executive Summary
 
 This study looks at the Star Wars Universe that George Lucas created, particularly the relationships between the characters in the first seven movies. Since the story arc centers around Anakin and Luke Skywalker, it seems plausible that they would be the central characters. The other objective is to create a model that approximates the relationship network.
